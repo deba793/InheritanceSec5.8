@@ -1,0 +1,8 @@
+E:\C#Prog\Assisted Project\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.csproj.AssemblyReference.cache
+E:\C#Prog\Assisted Project\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.csproj.SuggestedBindingRedirects.cache
+E:\C#Prog\Assisted Project\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.csproj.CoreCompileInputs.cache
+E:\C#Prog\Assisted Project\Phase1Section5.8\Phase1Section5.8\bin\Debug\Phase1Section5.8.exe.config
+E:\C#Prog\Assisted Project\Phase1Section5.8\Phase1Section5.8\bin\Debug\Phase1Section5.8.exe
+E:\C#Prog\Assisted Project\Phase1Section5.8\Phase1Section5.8\bin\Debug\Phase1Section5.8.pdb
+E:\C#Prog\Assisted Project\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.exe
+E:\C#Prog\Assisted Project\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.pdb
